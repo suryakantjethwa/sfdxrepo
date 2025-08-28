@@ -32,5 +32,11 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+
+    <types>
+        <members>*</members>
+        <name>TestComponent</name>
+    </types>
+
     <version>62.0</version>
 </Package>
